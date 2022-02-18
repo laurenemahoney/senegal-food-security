@@ -20,7 +20,8 @@ Can WFP VAM survey data be used to understand particularized hotspots of food in
 * Prevalence of more extreme food insecurity per department varies amongst survey years with 2013 and 2014 showing the highest % of HH in the top FCS quantile
 * Overall, food insecurity (low FCS) is highest in the South in the Casamance and Kedougou regions 
 
-![Alt Text](https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_FCS_Map_FINAL.png)
+![2011_Maps](https://user-images.githubusercontent.com/72273953/154772834-b8f1edfd-3898-4b8f-a21c-2f9feb0bd2ec.png)
+
 
 ### Why do these hotspots of food insecurity exist? 
 

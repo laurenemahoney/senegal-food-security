@@ -31,7 +31,16 @@ Can WFP VAM survey data be used to understand particularized hotspots of food in
 *(Top) Spatial map of natural disasters occuring in 2014, including flooding, drought, and a dry spell. (Bottom) Map of total number of households surveyed in 2014.*
 
 ### Why do these hotspots of food insecurity exist? 
+
 #### Connections to Precipitation 
+We present a first attempt visualizing a time-series of several indicator anomalies recorded in one specific department: Bignona. The figure below presents the Precipitation and Rice Yield anomalies combined with VAM results and disasters occurring in the Bignona department. This type of analysis could be replicated in other departments identifed as priority hotspot areas for future work. 
+
 <img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/bignona_timeseries.png" width="50%">
-<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/precipitation_annomaly.png" width="50%">
+
+*Precipitation time-series (1983-2016)* 
+
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/precipitation_annomaly.png" width="40%">
+
+*Precipitation and Rice Yield anomalies combined with VAM results and disasters occurrence in Bignona department.*
+
 

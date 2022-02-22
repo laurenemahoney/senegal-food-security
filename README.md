@@ -22,12 +22,16 @@ Can WFP VAM survey data be used to understand particularized hotspots of food in
 
 <img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_FCS_Map_FINAL.png" width="50%">
 <img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Fraction20_Map_FINAL.png" width="50%">
-*(Top) Spatial map of 2014 Food Consumption Scores (FCS), a measure of food security where low FCS translate to high food insecurity. (Bottom) Spatial map of the fraction of households in 2014 in the top 20 quantile of FCS, a measure of the most food insecure households.* 
+
+*(Top) Spatial map of 2014 Food Consumption Scores (FCS), a measure of food security where low FCS translate to high food insecurity. (Bottom) Spatial map of the fraction of households in 2014 in the top 20 quantile of FCS, a measure of the most food insecure households.*
 
 <img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Disasters_Map_FINAL.png" width="50%">
 <img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Total_Map.png" width="50%">
+
 *(Top) Spatial map of natural disasters occuring in 2014, including flooding, drought, and a dry spell. (Bottom) Map of total number of households surveyed in 2014.*
 
 ### Why do these hotspots of food insecurity exist? 
 #### Connections to Precipitation 
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/bignona_timeseries.png" width="50%">
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/precipitation_annomaly.png" width="50%">
 

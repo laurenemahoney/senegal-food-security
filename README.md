@@ -20,8 +20,14 @@ Can WFP VAM survey data be used to understand particularized hotspots of food in
 * Prevalence of more extreme food insecurity per department varies amongst survey years with 2013 and 2014 showing the highest % of HH in the top FCS quantile
 * Overall, food insecurity (low FCS) is highest in the South in the Casamance and Kedougou regions 
 
-<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Fraction20_Map_FINAL.png" width="60%">
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_FCS_Map_FINAL.png" width="50%">
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Fraction20_Map_FINAL.png" width="50%">
+*(Top) Spatial map of 2014 Food Consumption Scores (FCS), a measure of food security where low FCS translate to high food insecurity. (Bottom) Spatial map of the fraction of households in 2014 in the top 20 quantile of FCS, a measure of the most food insecure households.* 
+
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Disasters_Map_FINAL.png" width="50%">
+<img src="https://github.com/laurenemahoney/senegal-food-security/blob/main/outputs/figures/Senegal_VAM_2014_Total_Map.png" width="50%">
+*(Top) Spatial map of natural disasters occuring in 2014, including flooding, drought, and a dry spell. (Bottom) Map of total number of households surveyed in 2014.*
 
 ### Why do these hotspots of food insecurity exist? 
 #### Connections to Precipitation 
-#### Connections to Natural Disasters
+
